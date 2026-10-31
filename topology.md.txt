@@ -1,0 +1,28 @@
+# Ethical Hacking Isolated Lab – Network Topology
+
+## Host System
+- Operating System: Windows 10
+- Environment: Personal computer
+
+## Proposed Lab Architecture
+
+Host Laptop
+    |
+    | Localhost (127.0.0.1)
+    |
+Local Training Application
+    |
+    |
+Local Browser for Practice
+
+## Security Rules
+- Training application will be accessed locally.
+- No public internet exposure.
+- No port forwarding.
+- No third-party systems will be tested.
+- Only authorized educational activities are permitted.
+
+## Current Status
+- Project documentation prepared.
+- Training application setup pending.
+- Network isolation verification pending.

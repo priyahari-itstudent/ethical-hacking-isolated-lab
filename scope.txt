@@ -1,0 +1,29 @@
+PROJECT: Ethical Hacking – Isolated Lab
+
+1. OBJECTIVE
+To create a safe and isolated environment for learning ethical hacking and cybersecurity basics.
+
+2. AUTHORIZED SCOPE
+- Testing is restricted to the local training application.
+- The lab runs only on my own computer.
+- No third-party websites, servers, or networks will be tested.
+
+3. RULES OF ENGAGEMENT
+- Only authorized and legal testing is permitted.
+- No real personal data or passwords will be used.
+- The lab must not be exposed to the public internet.
+- No testing outside the defined scope.
+- Stop testing if unexpected activity occurs.
+
+4. ISOLATION
+- The training environment is intended for local use.
+- No public access or port forwarding.
+- Localhost access only.
+
+5. CURRENT STATUS
+- Host operating system: Windows 10.
+- Project documentation is being prepared.
+- Training application setup is pending.
+
+6. CONCLUSION
+This project follows legal and ethical cybersecurity practices.

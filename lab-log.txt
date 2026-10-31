@@ -1,0 +1,28 @@
+ETHICAL HACKING LAB – ACTIVITY LOG
+
+Date: 31 October 2026
+
+Host Operating System: Windows 10
+Project Folder: D:\ethical-hacking-lab
+
+ACTIVITY 1:
+Created the project documentation folder.
+
+ACTIVITY 2:
+Prepared the scope.txt file containing the legal scope and rules of engagement.
+
+ACTIVITY 3:
+Prepared the lab documentation.
+
+CURRENT STATUS:
+- Scope document: Completed
+- Activity log: In progress
+- Topology document: Pending
+- Training application setup: Pending
+- Isolation verification: Pending
+
+NEXT STEPS:
+- Complete topology documentation.
+- Set up an approved local training application.
+- Verify local-only access.
+- Capture screenshots as evidence.
