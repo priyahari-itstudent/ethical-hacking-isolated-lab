@@ -1,28 +1,38 @@
-ETHICAL HACKING LAB – ACTIVITY LOG
+ETHICAL HACKING LAB â€“ ACTIVITY LOG
 
 Date: 31 October 2026
 
 Host Operating System: Windows 10
-Project Folder: D:\ethical-hacking-lab
+Project Folder: D:\ethical-hacking- lab
 
 ACTIVITY 1:
 Created the project documentation folder.
 
 ACTIVITY 2:
-Prepared the scope.txt file containing the legal scope and rules of engagement.
+Prepared scope.txt with legal scope and rules of engagement.
 
 ACTIVITY 3:
-Prepared the lab documentation.
+Prepared the lab topology documentation.
+
+ACTIVITY 4:
+Installed Node.js and downloaded OWASP Juice Shop.
+
+ACTIVITY 5:
+Started OWASP Juice Shop locally using 127.0.0.1:3000.
+
+ACTIVITY 6:
+Captured screenshots of the application, server, project files, and GitHub documentation.
 
 CURRENT STATUS:
 - Scope document: Completed
-- Activity log: In progress
-- Topology document: Pending
-- Training application setup: Pending
-- Isolation verification: Pending
+- Activity log: Updated
+- Topology document: Prepared
+- Training application: Running locally
+- Evidence screenshots: Uploaded to GitHub
 
-NEXT STEPS:
-- Complete topology documentation.
-- Set up an approved local training application.
-- Verify local-only access.
-- Capture screenshots as evidence.
+NOTE:
+The application is configured for localhost access only.
+No public access or port forwarding is configured.
+
+NEXT STEP:
+Complete final documentation review.
