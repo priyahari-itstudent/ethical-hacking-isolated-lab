@@ -1,4 +1,4 @@
-PROJECT: Ethical Hacking – Isolated Lab
+PROJECT: Ethical Hacking â€“ Isolated Lab
 
 1. OBJECTIVE
 To create a safe and isolated environment for learning ethical hacking and cybersecurity basics.
@@ -22,8 +22,11 @@ To create a safe and isolated environment for learning ethical hacking and cyber
 
 5. CURRENT STATUS
 - Host operating system: Windows 10.
-- Project documentation is being prepared.
-- Training application setup is pending.
+- OWASP Juice Shop installed successfully.
+- Application running locally at http://127.0.0.1:3000
+- Server bound to localhost (127.0.0.1).
+- Windows Firewall access was not allowed.
+- Evidence screenshots uploaded to the GitHub repository.
 
 6. CONCLUSION
 This project follows legal and ethical cybersecurity practices.
