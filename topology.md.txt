@@ -1,28 +1,31 @@
-# Ethical Hacking Isolated Lab – Network Topology
+# Ethical Hacking Isolated Lab â€“ Network Topology
 
 ## Host System
 - Operating System: Windows 10
 - Environment: Personal computer
 
-## Proposed Lab Architecture
+## Lab Architecture
 
 Host Laptop
     |
     | Localhost (127.0.0.1)
     |
-Local Training Application
+OWASP Juice Shop (Port 3000)
     |
-    |
-Local Browser for Practice
+Local Web Browser
 
-## Security Rules
-- Training application will be accessed locally.
-- No public internet exposure.
-- No port forwarding.
-- No third-party systems will be tested.
+## Isolation and Security Rules
+- Application is configured to listen on 127.0.0.1.
+- Access is intended only from the local computer.
+- Windows Firewall access was not allowed.
+- No port forwarding is configured.
+- No third-party systems or networks are tested.
 - Only authorized educational activities are permitted.
 
 ## Current Status
-- Project documentation prepared.
-- Training application setup pending.
-- Network isolation verification pending.
+- Project documentation completed.
+- OWASP Juice Shop installed and running locally.
+- Evidence screenshots uploaded to GitHub.
+
+## Note
+The application is bound to localhost. This does not mean the computer is completely disconnected from the internet.
