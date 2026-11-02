@@ -1,0 +1,31 @@
+# Project 03 – Lab Log
+
+## Objective
+To perform basic reconnaissance of an authorised local
+OWASP Juice Shop lab and document its attack surface.
+
+## Lab Details
+- Target: http://127.0.0.1:3000
+- Application: OWASP Juice Shop
+- Version: 20.3.0
+- Node.js: 26.13.0
+- Port: 3000
+
+## Activities Completed
+1. Started the application on localhost.
+2. Opened the application in the browser.
+3. Observed the homepage and product listing.
+4. Checked product details and reviews.
+5. Observed search, login, basket and language features.
+6. Inspected the main HTTP request.
+7. Recorded the GET method and 304 status.
+8. Observed the X-Content-Type-Options header.
+
+## Result
+Basic local reconnaissance was completed.
+Observations and potential risk hypotheses were
+documented in inventory.md.
+
+## Scope
+All activities were limited to the authorised
+localhost lab environment.

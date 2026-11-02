@@ -1,0 +1,57 @@
+# Project 03 – Local Reconnaissance and Attack Surface Map
+
+## 1. Scope
+Target: OWASP Juice Shop
+Target URL: http://127.0.0.1:3000
+Environment: Localhost lab only
+Port: 3000
+Application Version: 20.3.0
+Node.js Version: 26.13.0
+
+## 2. Services and Environment
+- Application: OWASP Juice Shop
+- Runtime: Node.js
+- Access: Localhost (127.0.0.1)
+- Protocol: HTTP
+
+## 3. Observed Attack Surface
+
+| Area | Observation |
+|---|---|
+| Homepage | Product listing visible |
+| Search | Search input available |
+| Login | Login option available |
+| Basket | Basket feature available |
+| Language | Language selection available |
+| Product details | Product description, quantity and reviews visible |
+| Side menu | Contact, feedback, AI Chat and other links visible |
+| HTTP method | GET |
+| HTTP status | 304 Not Modified |
+| Security header | X-Content-Type-Options: nosniff |
+
+## 4. Potential Risk Hypotheses
+
+- Search input: Input validation could be reviewed.
+- Login: Authentication controls could be reviewed.
+- Basket: Basket operations and access controls could be reviewed.
+- Product details: Publicly visible product information could be reviewed.
+- Other routes: Navigation and access controls could be reviewed.
+
+These are potential testing areas, not confirmed vulnerabilities.
+
+## 5. Items Not Verified
+
+- Complete service enumeration
+- All application routes
+- Server and Content-Type headers in other responses
+- Product stock availability
+- Authentication and access-control behaviour
+
+## 6. Conclusion
+
+A basic reconnaissance of the local OWASP Juice Shop
+application was completed. Visible features, application
+details and selected HTTP response information were recorded.
+
+All observations were collected from the authorised
+localhost lab environment.
